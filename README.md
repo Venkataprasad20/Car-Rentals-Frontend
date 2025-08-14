@@ -8,41 +8,29 @@ This project demonstrates full-stack development skills, REST API design, databa
 User Features
 
 🔍 Search & Browse Cars – Filter by price, model, and availability.
-
 📅 Car Booking – Choose pick-up & drop-off dates and confirm instantly.
-
 📜 View Booking History – Track all past and current bookings.
-
 👤 Secure Authentication – Register, log in, and manage personal details.
 
 Admin Features
 
 🚗 Car Management – Add, edit, or remove cars with details and images.
-
 📦 Booking Management – Approve or reject bookings.
-
 👥 User Management – Monitor and manage customer accounts.
 
 🛠️ Tech Stack & Tools
+
 Frontend
-
-React.js – Component-based UI development.
-
-Vite – Lightning-fast build tool for React.
-
-Tailwind CSS – Utility-first CSS framework for responsive design.
-
-React Router DOM – Client-side routing and protected routes.
-
-Axios – API communication with backend.
-
-React Hooks – State and side-effect management (useState, useEffect, useContext).
+   .React.js – Component-based UI development.
+   .Vite – Lightning-fast build tool for React.
+   .Tailwind CSS – Utility-first CSS framework for responsive design.
+   .React Router DOM – Client-side routing and protected routes.
+   .Axios – API communication with backend.
+   .React Hooks – State and side-effect management (useState, useEffect, useContext).
 
 Backend
-
-Node.js – JavaScript runtime for backend services.
-
-Express.js – REST API development and routing.
+   .Node.js – JavaScript runtime for backend services.
+   .Express.js – REST API development and routing.
 
 MongoDB & Mongoose – NoSQL database and schema modeling.
 
